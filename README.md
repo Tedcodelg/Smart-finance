@@ -101,6 +101,6 @@ The frontend is a React SPA powered by Vite, featuring a premium glassmorphism U
 
 ### 4. Access the Application
 
-Open your browser and navigate to **http://localhost:5173**. 
+Open your browser and navigate to **https://smartmoney-smg9.onrender.com/**. 
 
 

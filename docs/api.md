@@ -1,7 +1,7 @@
 # Mercy API
 
 FastAPI backend for Mercy, a personal-finance tracker with ML-assisted forecasting.
-All endpoints are mounted under `/api/v1`; OpenAPI docs are served at `/docs` and
+All endpoints are mOunted under `/api/v1`; OpenAPI docs are served at `/docs` and
 `/openapi.json`.
 
 MongoDB document shapes are documented in [`docs/schema.md`](../docs/schema.md).

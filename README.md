@@ -13,7 +13,7 @@ This is the foundational data of the app. Every time you earn money (income) or 
 ### 2. Budgets
 Budgets act as limits you set on your spending for specific categories over a specific time period (usually a month).
 
-- **What it does:** You might say, "I only want to spend $400 on Groceries this month." The app actively compares your actual Transactions tagged as "Groceries" against this $400 limit.
+- **What it does:** You might say, "I only want to spend KES40,000 on Groceries this month." The app actively compares your actual Transactions tagged as "Groceries" against this KES40,000 limit.
 - **Alerts:** If you hit 80% of your limit (based on the `BUDGET_ALERT_THRESHOLD_PCT=0.8` setting in your `.env`), the app will generate an alert to warn you that you are close to overspending.
 
 ### 3. Goals (Savings Goals)
